@@ -1,0 +1,26 @@
+
+[fett] 🔧 Bug-Abusing [/fett]
+-- Die Ausnutzung von Bugs, Glitches oder Exploits ist verboten.  
+
+[fett] 🔥 Griefing  [/fett]
+-- Griefing ist überall verboten.  
+-- Zerstören, Loot-Stehlen oder mutwilliges Sabotieren zählen als Griefing.  
+-- Looten von Chests und Shulkern anderer Spieler ohne Erlaubnis ist ausdrücklich verboten.  
+
+[fett] ⚔️ PvP-Phase (Event-Modus)   [/fett]
+-- Während der PvP-Phase ist Kämpfen überall erlaubt, auch in der Safe-Zone.  
+-- Looten von besiegten Spielern ist erlaubt.  
+-- Die Phase wird vorher angekündigt (z. B. im Chat oder per Server-Nachricht).  
+
+[fett] 🔒 Safe-Zone (Normalbetrieb)  [/fett] 
+-- In der Safe-Zone ist PvP verboten.  
+-- Greifen, Abbauen oder Stehlen in der Safe-Zone ist verboten.  
+-- Flüchten in eine PvP-freie Zone, um einen laufenden Kampf zu missbrauchen, ist verboten.
+-- das aus nutzen der safe zonen ist verboten (z.b.  24/7 in der safe zone chillen)   
+
+[fett] 🛡️ Fair Play &amp; Technik  [/fett] 
+-- Keine Hacked Clients, X-Ray, Fly-Hacks, Kill Aura oder andere Cheat-Mods.  
+-- Extremistische Symbole (z. B. Hakenkreuz) sind streng verboten.  
+-- Spawnkilling ist streng verboten.  
+-- Team-Anweisungen befolgen.  
+-- Verstöße können Verwarnungen, Time-outs, Kicks oder Banns bedeuten.  
